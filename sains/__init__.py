@@ -1,1 +1,1 @@
-from .matematika import tambah
+from .matematika import tambah,kali
